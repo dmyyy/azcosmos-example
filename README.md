@@ -8,7 +8,7 @@ export DOCUMENT_DB_URI="https://<DB NAME>.documents.azure.com:443/"
 export DOCUMENT_DB_PRIMARY_KEY="<PRIMARY KEY>"
 ```
 
-Assumes dbName/dbContainer database/container are already set up. 
+Modify dbName/dbContainer to match database/container names. 
 
 ```bash
 go build main.go
