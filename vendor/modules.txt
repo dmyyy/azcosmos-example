@@ -1,0 +1,28 @@
+# github.com/Azure/azure-sdk-for-go v57.3.0+incompatible
+github.com/Azure/azure-sdk-for-go
+# github.com/Azure/azure-sdk-for-go/sdk/azcore v0.20.0
+github.com/Azure/azure-sdk-for-go/sdk/azcore
+github.com/Azure/azure-sdk-for-go/sdk/azcore/internal/pipeline
+github.com/Azure/azure-sdk-for-go/sdk/azcore/internal/pollers
+github.com/Azure/azure-sdk-for-go/sdk/azcore/internal/pollers/loc
+github.com/Azure/azure-sdk-for-go/sdk/azcore/internal/pollers/op
+github.com/Azure/azure-sdk-for-go/sdk/azcore/internal/shared
+github.com/Azure/azure-sdk-for-go/sdk/azcore/policy
+github.com/Azure/azure-sdk-for-go/sdk/azcore/runtime
+github.com/Azure/azure-sdk-for-go/sdk/azcore/streaming
+# github.com/Azure/azure-sdk-for-go/sdk/data/azcosmos v0.1.0
+## explicit
+github.com/Azure/azure-sdk-for-go/sdk/data/azcosmos
+# github.com/Azure/azure-sdk-for-go/sdk/internal v0.8.1
+github.com/Azure/azure-sdk-for-go/sdk/internal/diag
+github.com/Azure/azure-sdk-for-go/sdk/internal/errorinfo
+github.com/Azure/azure-sdk-for-go/sdk/internal/log
+github.com/Azure/azure-sdk-for-go/sdk/internal/uuid
+# golang.org/x/net v0.0.0-20210610132358-84b48f89b13b
+golang.org/x/net/http/httpguts
+golang.org/x/net/idna
+# golang.org/x/text v0.3.6
+golang.org/x/text/secure/bidirule
+golang.org/x/text/transform
+golang.org/x/text/unicode/bidi
+golang.org/x/text/unicode/norm
